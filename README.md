@@ -18,7 +18,7 @@
 <p>🚧 Work in progress. This project grows as I learn more.</p>
 
 <h2>Live site</h2>
-<!-- insert link to the portfolio-->
+https://matos-joaofc.github.io/portfolio/
 
 <footer>
   <h4>&copy 2026 João Matos </h4>
